@@ -1,6 +1,6 @@
+#### Container Regestry
+- https://hub.docker.com/r/pranshu314/md_client-react-nginx/tags
+#### Docker Pull
 ```bash
-mkdir go-workspace
-export GOPATH=$PWD/go-workspace
-go mod download
-go run main.go
+docker pull pranshu314/md_client-react-nginx:<version>
 ```
