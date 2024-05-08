@@ -1,10 +1,15 @@
+#### Container Regestry
+- https://hub.docker.com/r/pranshu314/md_client-react-nginx/tags
+#### Docker Pull
+- v01
+```bash
+docker pull pranshu314/md_client-react-nginx:v01
 ```
-npm create vite@latest
+- v02
+```bash
+docker pull pranshu314/md_client-react-nginx:v02
 ```
-
-```
-nvm ls
-nvm use node 19.4
-npm install
-npm run dev
+- v03
+```bash
+docker pull pranshu314/md_client-react-nginx:v03
 ```
