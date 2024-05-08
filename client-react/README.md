@@ -1,5 +1,5 @@
 #### Container Regestry
-- https://hub.docker.com/r/pranshu314/md_client-react-nginx/tags
+- https://hub.docker.com/r/pranshu314/md_client-react-nginx/
 #### Docker Pull
 - v01
 ```bash
